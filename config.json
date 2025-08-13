@@ -1,0 +1,7 @@
+{
+    "sprite_scale": 0.7,
+    "poll_ms": 30,
+    "idle_after_ms": 600,
+    "speed_threshold": 6.0,
+    "bottom_margin": 6
+}
