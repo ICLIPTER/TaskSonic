@@ -3,6 +3,7 @@
 A fun little desktop pet featuring Sonic the Hedgehog 🦔 — he runs along your taskbar when you move your mouse quickly, and idles when you stop.  
 Built with **Python** and **PySide6**.
 
+
 ---
 
 ## 📸 Preview
