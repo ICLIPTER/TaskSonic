@@ -4,7 +4,6 @@ A fun little desktop pet featuring Sonic the Hedgehog 🦔 — he runs along you
 Built with **Python** and **PySide6**.
 
 
-
 ---
 
 ## 📸 Preview
